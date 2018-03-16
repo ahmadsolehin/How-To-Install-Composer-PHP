@@ -1,6 +1,6 @@
 # How-To-Install-Composer-PHP
 
-## step by step
+## step by step install in mac
 
 - open terminal in mac
 - paste this code          curl -sS "https://getcomposer.org/installer" | php
@@ -13,3 +13,5 @@
 - type ls .. u will see composer.phar
 - type composer.phar 
 - u will see composer.phar is install
+
+- congratz.. after this u can install laravel using composer..
